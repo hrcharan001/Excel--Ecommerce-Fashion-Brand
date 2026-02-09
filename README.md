@@ -3,29 +3,23 @@
 This dashboard provides a comprehensive analytical view of an e-commerce fashion brand’s performance, focusing on sales trends, customer behavior, product popularity, order patterns, and delivery performance. It is designed to help business stakeholders make data-driven decisions by visualizing key metrics in a simple and interactive format.
 
 ## Project
-- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View</a>
-
-<img width="1868" height="636" alt="SS of Project" src="https://github.com/user-attachments/assets/f66760ab-61a0-4c8e-b4ca-1d3da9340641" />
+- <a href="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/project%20-ecommerce%20fashion%20brand%20dashboard.xlsx">Click To View</a>
 
 ## Project Objectives
 
-- To create a centralized shift planning system for employees
-- To ensure balanced allocation of Morning, Afternoon, and Night shifts
-- To automatically validate shift coverage per day
-- To identify missing or insufficient shifts at a glance
-- To improve operational efficiency and workforce planning
+-- To analyze sales performance of an e-commerce fashion brand over time.
+-- To understand customer purchasing behavior across different platforms (App, Website, Social Media).
+-- To identify top-performing and underperforming products.
+-- To evaluate order patterns, including quantity per order and buying frequency.
+-- To assess logistics efficiency by analyzing delivery timelines.
 
 ## Project Insights
 
-- Some days show "Missing" shift checks, indicating incomplete assignments
-- Sundays can have zero shifts, helping identify planned off-days
-- Balanced distribution avoids overloading specific employees
-- Visual formatting makes workforce gaps immediately noticeable
+- Sales show noticeable fluctuations across weeks, indicating seasonal demand and promotional impact.
+- Female customers form a significant portion of total purchases, indicating a strong target segment for marketing.
+- Certain fashion categories consistently outperform others, helping identify revenue-driving products.
+- Most orders are delivered within a short time frame, but a few delays highlight scope for logistics optimization.
 
+##Key Takeaway
 
-## Learning Outcomes
-
-- Practical workforce planning
-- Excel automation and validation techniques
-- Data organization and visualization
-- Real-world scheduling problem-solving
+This project demonstrates how data analytics can be used to understand customer behavior, optimize sales strategies, and improve operational efficiency in an e-commerce fashion business.
