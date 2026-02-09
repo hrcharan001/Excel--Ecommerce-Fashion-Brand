@@ -5,7 +5,7 @@ This dashboard provides a comprehensive analytical view of an e-commerce fashion
 ## Project
 - <a href="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/project%20-ecommerce%20fashion%20brand%20dashboard.xlsx">Click To View</a>
 
-<img width="1868" height="636" alt="SS of Project" src="" />
+<img width="1868" height="636" alt="SS of Project" src="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/ecommerce%20dashboard.png" />
 
 ## Project Objectives
 
