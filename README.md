@@ -3,7 +3,7 @@
 This dashboard provides a comprehensive analytical view of an e-commerce fashion brand’s performance, focusing on sales trends, customer behavior, product popularity, order patterns, and delivery performance. It is designed to help business stakeholders make data-driven decisions by visualizing key metrics in a simple and interactive format.
 
 ## Project
-- <a href="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/project%20-ecommerce%20fashion%20brand%20dashboard.xlsx">Click To View</a>
+- <a href="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/project%20-ecommerce%20fashion%20brand%20dashboard.xlsx">Click To View The Project</a>
 
 <img width="1868" height="636" alt="SS of Project" src="https://github.com/hrcharan001/Excel--Ecommerce-Fashion-Brand/blob/main/ecommerce%20dashboard.png" />
 
